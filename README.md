@@ -3,7 +3,7 @@
 Stop guessing which doctor you need. MediMeet uses conversational AI to instantly analyze your symptoms and route you to the exact clinical specialist you need.
 
 ## 🚀 Live Demo
-Experience the platform in action: [Watch Demo](your-loom-link-here)
+<video src="https://github.com/user-attachments/assets/8eb809fb-1cb1-4b45-be8c-4b8e8b746708" controls width="100%"></video>
 
 ## 🧠 The AI Triage Hero
 At the core of MediMeet is our intelligent **AI Symptom Triage Chatbot**. Powered by `gemini-1.5-flash`, this advanced multi-turn agent conducts clinical-style patient conversations to analyze symptoms, map them to **16 distinct medical specialties**, and recommend the exact doctor before booking—virtually eliminating misallocated appointments and scheduling friction.
